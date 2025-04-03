@@ -1,0 +1,17 @@
+{
+  "name": "gcp-metrics-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/monitoring": "^5.0.1",
+    "@google-cloud/pubsub": "^4.11.0",
+    "express": "^5.1.0"
+  }
+}

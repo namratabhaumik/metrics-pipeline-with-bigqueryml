@@ -1,0 +1,18 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# Node.js
+node_modules/
+
+# Environment variables (if you use .env files)
+.env
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
